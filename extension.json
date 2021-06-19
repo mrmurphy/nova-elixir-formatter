@@ -1,9 +1,9 @@
 {
   "identifier": "mrmurphy.ElixirFormatter",
-  "name": "Elixir Formatter",
+  "name": "Elixir Formatter (Murphy Edition)",
   "organization": "mrmurphy",
-  "description": "Provides basic formatting functionality for the Elixir language using `mix format`. Formats on save by default.",
-  "version": "1.1",
+  "description": "Uses mix to format your Elixir files on save.",
+  "version": "1.2",
   "categories": ["commands"],
   "bugs": "https://github.com/mrmurphy/nova-elixir-formatter/issues",
 
